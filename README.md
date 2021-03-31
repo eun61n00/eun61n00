@@ -27,12 +27,12 @@
 &nbsp;***Languages & Tools I Know...***
 <p align="left">
   <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code> 
-  <img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
+  <code> <img height="50" src="https://github.com/eun61n00/eun61n00/blob/main/pngfind.com-mysql-logo-transparent-png-744402.png"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/html.svg"> </code>
-  <code> <img height="50" src="https://github.com/eun61n00/eun61n00/blob/main/pngfind.com-mysql-logo-transparent-png-744402.png"> </code>
+  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
+
+
 
   <hr>
