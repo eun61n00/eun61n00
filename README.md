@@ -20,7 +20,7 @@
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I’m looking for help for learning **Remote Sensing**<br>
 ✔ I regularly write articles on [github blog](https://eun61n00.github.io) and [naver blog](https://blog.naver.com/billionaire0624)<br>
-✔ I use to write code on [leetcode](https://leetcode.com/Akash_Chowrasia/) <br>
+✔ I use to write code on [leetcode](https://leetcode.com/eun61n00/) <br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br><br><br><br>
  
 
