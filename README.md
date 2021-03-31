@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/eun61n00/eun61n00/blob/main/my%20mimoticon.gif" height="300"/>
+  <img src="https://github.com/eun61n00/eun61n00/blob/main/KakaoTalk_20210331_201839948.gif" height="300"/>
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Eunbin Kwon</h1>
