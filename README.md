@@ -1,24 +1,21 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Eunbin Kwon</h1>
-<h3 align="center">Computer Science Student | Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3>
+<h3 align="center">Computer Science Student | Data Analysis Enthusiast | Budding Software Engineer | Content Writer </h3>
 </p>
 
 <p align="center">
   <em>
     This is ME, Eunbin, a <b>junior</b> undergraduate from <b>SeoulTech</b>, IISE. <br>
-    A budding <b>Full-Stack Software Developer</b> and a <b>Competitive Programming Enthusiast</b>:)
+    A budding <b>Full-Stack Software Developer</b> and a <b>Competitive Data Analysis Enthusiast</b>:)
   </em> 
   <br>
 </p>
 
 &nbsp;***Talking about Personal Stuffs...***
 
-✔ I’m currently learning **CSS3** & **Java Script**<br>
+✔ I’m currently learning **Algorithm** & **Data Analysis**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I’m looking for help for learning **Remote Sensing**<br>
-✔ I regularly write articles on [github blog](https://eun61n00.github.io) and [naver blog](https://blog.naver.com/billionaire0624)<br>
-✔ I use to write code on [leetcode](https://leetcode.com/eun61n00/) <br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br><br><br><br>
- 
+✔ I regularly write articles on [github blog](https://eun61n00.github.io), [tistory blog](https://eunbin00.tistory.com/) and [naver blog](https://blog.naver.com/billionaire0624)<br>
 
 &nbsp;***Languages & Tools I Know...***
 <p align="left">
